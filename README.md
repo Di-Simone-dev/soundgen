@@ -143,28 +143,3 @@ btn = Button(root, text="Click me!", command=lambda: click_sound.play())
 btn.pack()
 root.mainloop()
 ```
-
-## 🤝 Contribuire
-
-Sentiti libero di:
-- Aggiungere nuovi tipi di suoni
-- Migliorare gli algoritmi di sintesi
-- Ottimizzare le performance
-- Correggere bug
-
-## 📝 Licenza
-
-Questo progetto è rilasciato sotto licenza MIT - sentiti libero di usarlo come preferisci.
-
-## 🙏 Crediti
-
-Creato con Python, NumPy e SciPy.
-Ispirato dai suoni UI di OperaGX e altre applicazioni moderne.
-
-## 📞 Supporto
-
-Per domande o problemi, apri una issue su GitHub.
-
----
-
-**Buon sound design! 🎵**
